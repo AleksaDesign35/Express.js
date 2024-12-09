@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Aleksa",
+    "lastName": "Kremic",
+    "job": "developer",
+    "age": 25
+  },
+  {
+    "name": "Milan",
+    "lastName": "Savic",
+    "job": "Hacker",
+    "age": 27
+  },
+  {
+    "name": "Sanja",
+    "lastName": "Krmpot",
+    "job": "Developer",
+    "age": 25
+  }
+]
